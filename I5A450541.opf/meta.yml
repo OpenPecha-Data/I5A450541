@@ -1,0 +1,30 @@
+id: I5A450541
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:33:43.293130'
+last_modified: '2022-06-11T13:33:43.293146'
+parser: null
+source_metadata:
+  title: Candragomin Series
+  language: bo
+  description: 'Texts by and about the seventh-century Indian master Candragomin (tsandra
+    go mi):'
+  volume:
+    f1636:
+      title: 'The Fulfilment of All Aspirations: In Praise of Noble Tārā'
+      base_file: f1636.txt
+      order: 1
+      parent: Praise
+    f4BF9:
+      title: 'The Swift Infusion of Blessings: In Praise of the Mahāpaṇḍita Candragomin'
+      base_file: f4BF9.txt
+      order: 2
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
